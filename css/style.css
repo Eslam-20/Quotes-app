@@ -1,0 +1,28 @@
+/** @format */
+
+h1 {
+  font-size: 80px;
+  font-family: Impact;
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+
+p {
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+
+button {
+  width: 250px;
+  height: 80px;
+  background-color: rgb(84, 4, 137);
+  color: white;
+  border-radius: 20px;
+  transition: all 0.8s;
+}
+
+button:hover {
+  background-color: blue;
+  border-radius: 40px;
+  transition: all 0.7s;
+}
